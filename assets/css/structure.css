@@ -1733,7 +1733,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 }
 
 #Top_bar .menu li ul li a {
-    padding: 10px 10px 10px 20px;
+    padding: 10px 20px 10px 20px;
     display: block;
     border-bottom: 1px solid rgba(0,0,0,0.05);
 }
@@ -1747,7 +1747,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
     position: absolute;
     right: 7px;
     top: 11px;
-    font-size: 12px;
+    font-size: 20px;
     color: rgba(0,0,0,0.35);
 }
 

@@ -514,8 +514,8 @@ h1, #Subheader .title, .text-logo #logo {
 	line-height: 25px;
 }
 h2 {
-	font-size: 60px;
-	line-height: 60px;
+	font-size: 35px;
+	line-height: 40px;
 }
 h3 {
 	font-size: 36px;
@@ -629,7 +629,10 @@ input[type="text"]:focus, input[type="tel"]:focus, input[type="password"]:focus,
  |
  |
  */
-
+.socialmedia{
+	font-size: 25px;
+	color: #bf4c4d;
+}
 body.contact #Content, body.content_no_padding #Content {
 	padding-top: 0 !important;
 }

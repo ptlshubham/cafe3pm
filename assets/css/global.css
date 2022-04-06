@@ -111,6 +111,7 @@ b, strong {
 big, .big {
 	font-size: 110%;
 	line-height: 180%;
+	text-align: justify;
 }
 dt {
 	font-weight: 700;
